@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.bg-product {
+    background-color: rgb(0, 229, 255);
+    border-radius: 10px;
+    margin-top: 30px !important;
+    max-width: 600px;
+}
+
+.product-title {
+    margin-top: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.product{
+    margin-top: 60px;
+}
+
+
+.card-text-one {
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px;
+     margin-top: 20px;
+}
+
+.button-one-product {
+    font-size: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.mid-one {
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.btn-product-one {
+    width: 285px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
